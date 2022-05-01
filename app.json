@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "281b0444-5de0-49f6-a467-ae004ba8dcbe"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/feibiao2/dudu/",
+    "repository": "https://github.com/feibiao2/dudu",
+    "stack": "container"
+}
